@@ -19,10 +19,10 @@
   "homepage": "https://github.com/segmentio/functions-library#readme",
   "dependencies": {
     "atob": "2.1.2",
-    "aws-sdk": "2.488.0",
+    "aws-sdk": "2.814.0",
     "btoa": "1.2.1",
     "form-data": "2.4.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "node-fetch": "2.6.0",
     "oauth": "0.9.15",
     "xml": "1.0.1"
